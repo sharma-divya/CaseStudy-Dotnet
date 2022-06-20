@@ -1,0 +1,16 @@
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\CommonService\bin\Release\netcoreapp3.1\CommonService.exe
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\CommonService\bin\Release\netcoreapp3.1\CommonService.deps.json
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\CommonService\bin\Release\netcoreapp3.1\CommonService.runtimeconfig.json
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\CommonService\bin\Release\netcoreapp3.1\CommonService.runtimeconfig.dev.json
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\CommonService\bin\Release\netcoreapp3.1\CommonService.dll
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\CommonService\bin\Release\netcoreapp3.1\CommonService.pdb
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\CommonService\obj\Release\netcoreapp3.1\CommonService.csproj.AssemblyReference.cache
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\CommonService\obj\Release\netcoreapp3.1\CommonService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\CommonService\obj\Release\netcoreapp3.1\CommonService.AssemblyInfoInputs.cache
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\CommonService\obj\Release\netcoreapp3.1\CommonService.AssemblyInfo.cs
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\CommonService\obj\Release\netcoreapp3.1\CommonService.csproj.CoreCompileInputs.cache
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\CommonService\obj\Release\netcoreapp3.1\CommonService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\CommonService\obj\Release\netcoreapp3.1\CommonService.RazorTargetAssemblyInfo.cache
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\CommonService\obj\Release\netcoreapp3.1\CommonService.dll
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\CommonService\obj\Release\netcoreapp3.1\CommonService.pdb
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\CommonService\obj\Release\netcoreapp3.1\CommonService.genruntimeconfig.cache

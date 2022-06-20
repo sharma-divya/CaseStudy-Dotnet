@@ -1,0 +1,98 @@
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/api/Airline/GetAllAirline",
+      "DownstreamScheme": "http",
+      "DownstreamHost": "localhost",
+      "DownstreamPort": 5021,
+      "UpstreamPathTemplate": "/GetAirlines",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Airline/AddAirline",
+      "DownstreamScheme": "http",
+      "DownstreamHost": "localhost",
+      "DownstreamPort": 5021,
+      "UpstreamPathTemplate": "/AddAirline",
+      "UpstreamHttpMethod": [ "POST" ]
+    },
+
+    {
+      "DownstreamPathTemplate": "/api/Airline/Block{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHost": "localhost",
+      "DownstreamPort": 5021,
+      "UpstreamPathTemplate": "/BlockAirline{id}",
+      "UpstreamHttpMethod": [ "DELETE" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Flight/GetAllFlights",
+      "DownstreamScheme": "http",
+      "DownstreamHost": "localhost",
+      "DownstreamPort": 5022,
+      "UpstreamPathTemplate": "/GetAllFlights",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Flight/AddFlight",
+      "DownstreamScheme": "http",
+      "DownstreamHost": "localhost",
+      "DownstreamPort": 5022,
+      "UpstreamPathTemplate": "/AddFlight",
+      "UpstreamHttpMethod": [ "POST" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Flight/DeleteFlight{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHost": "localhost",
+      "DownstreamPort": 5022,
+      "UpstreamPathTemplate": "/DeleteFlight{id}",
+      "UpstreamHttpMethod": [ "DELETE" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Flight/SearchFlights",
+      "DownstreamScheme": "http",
+      "DownstreamHost": "localhost",
+      "DownstreamPort": 5022,
+      "UpstreamPathTemplate": "/SearchFlights",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Booking/AddBooking",
+      "DownstreamScheme": "http",
+      "DownstreamHost": "localhost",
+      "DownstreamPort": 5023,
+      "UpstreamPathTemplate": "/flight/ticket/booking",
+      "UpstreamHttpMethod": [ "POST" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Booking/GetBookingFromPNR{pnr}",
+      "DownstreamScheme": "http",
+      "DownstreamHost": "localhost",
+      "DownstreamPort": 5023,
+      "UpstreamPathTemplate": "/flight/ticket{pnr}",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Booking/GetBookingsFromEmail{email}",
+      "DownstreamScheme": "http",
+      "DownstreamHost": "localhost",
+      "DownstreamPort": 5023,
+      "UpstreamPathTemplate": "/flight/booking/history{email}",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Booking/CancelBooking{pnr}",
+      "DownstreamScheme": "http",
+      "DownstreamHost": "localhost",
+      "DownstreamPort": 5023,
+      "UpstreamPathTemplate": "/flight/booking/cancel{pnr}",
+      "UpstreamHttpMethod": [ "DELETE" ]
+    }
+
+  ],
+  "GlobalConfiguration": {
+    "RequestKey": "OcRequestId",
+    "AdministrationPath": "/administration"
+  }
+}

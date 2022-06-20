@@ -1,0 +1,10 @@
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\Common.Utility\bin\Debug\netcoreapp3.1\Common.Utility.deps.json
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\Common.Utility\bin\Debug\netcoreapp3.1\Common.Utility.dll
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\Common.Utility\bin\Debug\netcoreapp3.1\Common.Utility.pdb
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\Common.Utility\obj\Debug\netcoreapp3.1\Common.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\Common.Utility\obj\Debug\netcoreapp3.1\Common.Utility.AssemblyInfoInputs.cache
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\Common.Utility\obj\Debug\netcoreapp3.1\Common.Utility.AssemblyInfo.cs
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\Common.Utility\obj\Debug\netcoreapp3.1\Common.Utility.csproj.CoreCompileInputs.cache
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\Common.Utility\obj\Debug\netcoreapp3.1\Common.Utility.dll
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\Common.Utility\obj\Debug\netcoreapp3.1\Common.Utility.pdb
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\Common.Utility\obj\Debug\netcoreapp3.1\Common.Utility.csproj.AssemblyReference.cache

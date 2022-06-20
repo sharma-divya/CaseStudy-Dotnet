@@ -1,0 +1,16 @@
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\LoginManagement\bin\Debug\netcoreapp2.1\LoginManagement.deps.json
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\LoginManagement\bin\Debug\netcoreapp2.1\LoginManagement.runtimeconfig.json
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\LoginManagement\bin\Debug\netcoreapp2.1\LoginManagement.runtimeconfig.dev.json
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\LoginManagement\bin\Debug\netcoreapp2.1\LoginManagement.dll
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\LoginManagement\bin\Debug\netcoreapp2.1\LoginManagement.pdb
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\LoginManagement\obj\Debug\netcoreapp2.1\LoginManagement.csproj.AssemblyReference.cache
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\LoginManagement\obj\Debug\netcoreapp2.1\LoginManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\LoginManagement\obj\Debug\netcoreapp2.1\LoginManagement.AssemblyInfoInputs.cache
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\LoginManagement\obj\Debug\netcoreapp2.1\LoginManagement.AssemblyInfo.cs
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\LoginManagement\obj\Debug\netcoreapp2.1\LoginManagement.csproj.CoreCompileInputs.cache
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\LoginManagement\obj\Debug\netcoreapp2.1\LoginManagement.RazorAssemblyInfo.cache
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\LoginManagement\obj\Debug\netcoreapp2.1\LoginManagement.RazorAssemblyInfo.cs
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\LoginManagement\obj\Debug\netcoreapp2.1\LoginManagement.RazorTargetAssemblyInfo.cache
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\LoginManagement\obj\Debug\netcoreapp2.1\LoginManagement.dll
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\LoginManagement\obj\Debug\netcoreapp2.1\LoginManagement.pdb
+C:\Users\cogdotnet39\source\repos\CaseStudy\FlightBookingManagement\LoginManagement\obj\Debug\netcoreapp2.1\LoginManagement.genruntimeconfig.cache

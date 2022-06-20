@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NPTJDRHiZgVhyFIa0f9YLfwwIoUfwgIFiiIm+SSkqbgPz7IpnrI297rEBAqVNxwpvKXT07P6RgX7BejZVPOSQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cogdotnet39\\source\\repos\\CaseStudy\\FlightBookingManagement\\CommonService\\CommonService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cogdotnet39\\.nuget\\packages\\microsoft.aspnetcore.razor.design\\2.2.0\\microsoft.aspnetcore.razor.design.2.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
